@@ -31,16 +31,10 @@ Currently diving into frontend and always open to learning more!</p>
 ###
 <!-- Status -->
 <h2>GitHub Stats</h2>
-<table align="center" style="border: none;">
-  <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Gabriella-Pio&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriella-Pio&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 4px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriella-Pio&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriella-Pio&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
+</div>
 
 ###
 <!-- Snake Animation -->
