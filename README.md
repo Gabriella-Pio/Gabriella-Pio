@@ -1,8 +1,10 @@
+<!-- Intro -->
 <h1>Hello World 👋! I'm Gabriella</h1>
-
 <p><strong>A software engineering student, constantly exploring new technologies and eager to turn ideas into code. 💻✨ </strong><br>
 Currently diving into frontend and always open to learning more!</p>
 
+###
+<!-- Languages & Tools -->
 <h2>Languages and Tools</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -24,9 +26,10 @@ Currently diving into frontend and always open to learning more!</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
-</div><br>
+</div>
 
-
+###
+<!-- Status -->
 <h2>GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gabriella-Pio&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -34,11 +37,21 @@ Currently diving into frontend and always open to learning more!</p>
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Gabriella-Pio/Gabriella-Pio/output/snake.svg" alt="Snake animation" />
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriella-Pio/Gabriella-Pio/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriella-Pio/Gabriella-Pio/refs/heads/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Gabriella-Pio/Gabriella-Pio/refs/heads/output/github-snake.svg" />
+</picture>
 
 ###
+<!-- Dev Quotes -->
+<div align="center"><br>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="150" alt="dev quote" />
+</div>
 
+###
+<!-- Socials -->
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriella-pio-correa-3410182bb" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -48,17 +61,8 @@ Currently diving into frontend and always open to learning more!</p>
   </a>
 </div>
 
-
-<div align="center"><br>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="150" alt="dev quote" />
-</div>
-
-###
-
-
-
+<!-- Sources -->
 <!-- https://gprm.itsvg.in -->
 <!-- https://githubprofile.com/ -->
 <!-- https://profile-readme-generator.com/ -->
-
-
+<!-- https://www.youtube.com/watch?v=onUx22pgiBM&list=WL&index=1 -->
