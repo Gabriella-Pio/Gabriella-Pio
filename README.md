@@ -46,11 +46,13 @@ Currently diving into frontend and always open to learning more!</p>
 
 ###
 <!-- Dev Quotes -->
+<!-- 
 <div align="center"><br>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="150" alt="dev quote" />
 </div>
-
 ###
+-->
+
 <!-- Socials -->
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriella-pio-correa-3410182bb" target="_blank">
