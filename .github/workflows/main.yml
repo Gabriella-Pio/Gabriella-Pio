@@ -25,7 +25,7 @@ jobs:
       # 2. PASSO CORRIGIDO: CRIA A PASTA 'dist' E MOVE OS ARQUIVOS
       - name: Prepare SVGs for push
         run: |
-          mkdir dist
+          mkdir -p dist # CORREÇÃO: Adicionamos o '-p'
           cp pacman-contribution-graph.svg dist/pacman-contribution-graph.svg
           cp pacman-contribution-graph-dark.svg dist/pacman-contribution-graph-dark.svg
           
