@@ -45,6 +45,14 @@ Currently diving into frontend and always open to learning more!</p>
 </picture>
 
 ###
+<!-- Pacman Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriella-Pio/Gabriella-Pio/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriella-Pio/Gabriella-Pio/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gabriella-Pio/Gabriella-Pio/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 <!-- Dev Quotes -->
 <!-- 
 <div align="center"><br>
