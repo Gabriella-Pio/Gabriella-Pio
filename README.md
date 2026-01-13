@@ -11,7 +11,7 @@
 
 ## About Me  
 - Currently learning **React**, **Django**, **CI/CD**, **Docker**, and **AI-assisted development**  
-- Experience integrating apps with **AI chat APIs** (Núcleo de IA da Fatesg)  
+- Experience integrating apps with **AI chat APIs**
 - Focused on becoming a strong **full-stack developer**  
 - Former orchestral musician — discipline & attention to detail are part of my DNA  
 - Curious, proactive and always improving
