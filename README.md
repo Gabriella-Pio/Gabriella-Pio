@@ -4,7 +4,7 @@
 <p align="left">
   <strong>Software Engineering student and Web Developer in training.</strong><br>
   Passionate about building intuitive and scalable applications using <strong>React</strong>, <strong>Django</strong> and <strong>PostgreSQL</strong>.  
-  Currently working at <strong>Fábrica de Software — SENAI Fatesg</strong>, developing real-world solutions and learning more every day about good practices and modern web development.
+  Currently working at <strong>Senai ZEISS Center of Excellence in Metrology</strong>, developing real-world solutions and learning more every day about good practices and modern web development.
 </p>
 
 ---
