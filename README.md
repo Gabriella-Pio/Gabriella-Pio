@@ -4,16 +4,14 @@
 <p align="left">
   <strong>Software Engineering student and Web Developer in training.</strong><br>
   Passionate about building intuitive and scalable applications using <strong>React</strong>, <strong>Django</strong> and <strong>PostgreSQL</strong>.  
-  Currently working at <strong>Senai ZEISS Center of Excellence in Metrology</strong>, developing real-world solutions and learning more every day about good practices and modern web development.
+  Currently working at <strong>Senai ZEISS Center of Excellence in Metrology</strong>, developing real-world solutions and learning more every day about good practices and metrology equipment.
 </p>
 
 ---
 
 ## About Me  
-- Currently learning **React**, **Django**, **CI/CD**, **Docker**, and **AI-assisted development**  
-- Experience integrating apps with **AI chat APIs**
+- Currently learning **React**, **Django**, **CI/CD**, **Docker** 
 - Focused on becoming a strong **full-stack developer**  
-- Former orchestral musician — discipline & attention to detail are part of my DNA  
 - Curious, proactive and always improving
 
 ---
