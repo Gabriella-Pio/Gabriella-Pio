@@ -52,21 +52,20 @@
 <!-- ## 🟡 Fun Animations -->
 
 <!-- Snake Animation -->
-<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriella-Pio/Gabriella-Pio/refs/heads/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriella-Pio/Gabriella-Pio/refs/heads/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Gabriella-Pio/Gabriella-Pio/refs/heads/output/github-snake.svg" />
 </picture>
- -->
 
 <!-- Pacman Animation -->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriella-Pio/Gabriella-Pio/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriella-Pio/Gabriella-Pio/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gabriella-Pio/Gabriella-Pio/output/pacman-contribution-graph.svg">
 </picture>
-
+-->
 
 <!-- Dev Quotes -->
 <!-- 
@@ -85,9 +84,11 @@
   <a href="https://www.linkedin.com/in/gabriella-pio-correa-3410182bb" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
   </a>
+  <!--
   <a href="https://www.instagram.com/gaby_p.c/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40"/>
   </a>
+  -->
 </div>
 <!-- Sources -->
 <!-- https://gprm.itsvg.in -->
