@@ -10,7 +10,7 @@
 ---
 
 ## About Me  
-- 💼 Software Engineering student at **Faculdade SENAI Fatesg** (Graduation: 2027) & upcoming international intern at **ZEISS (Oberkochen, Germany)**.
+- 💼 Software Engineering student at **Faculdade SENAI Fatesg** (Graduation: 2027) & upcoming international intern at **ZEISS (Germany)**.
 - 🚀 Focused on full-stack development, metrology automation, and industrial systems.
 - 💡 Always exploring modern software architecture, clean code, and scalable systems.
 
